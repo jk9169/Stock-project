@@ -131,6 +131,7 @@ public class StockCalculate {
 		a4.StockInput(scanner);
 		a4.StockPrint();
 		
+		System.out.println("test");
 		scanner.close();
 	}
 	
