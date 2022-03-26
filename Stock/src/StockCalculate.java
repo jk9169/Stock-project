@@ -127,6 +127,10 @@ public class StockCalculate {
 		a3.StockInput(scanner);
 		a3.StockPrint();
 		
+		AddStock a4 = new AddStock();
+		a4.StockInput(scanner);
+		a4.StockPrint();
+		
 		scanner.close();
 	}
 	
